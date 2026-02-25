@@ -36,7 +36,7 @@ public interface UserClient {
 }
 ```
 
---
+---
 
 ## 🔧 Client Configuration
 
@@ -61,7 +61,7 @@ public class UserClientConfig {
 }
 ```
 
---
+---
 
 ## 🏃 Running the Application
 
